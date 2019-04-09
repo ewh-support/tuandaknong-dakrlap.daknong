@@ -1,8 +1,8 @@
 function ULSaew(){var o=new Object;o.ULSTeamName="Microsoft SharePoint Foundation";o.ULSFileName="blank.js";return o;}
 
 /*
-     FILE ARCHIVED ON 05:47:53 Jul 11, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:08:23 Apr 06, 2019.
+     FILE ARCHIVED ON 06:27:00 Jun 01, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:53:05 Apr 09, 2019.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -10,14 +10,14 @@ function ULSaew(){var o=new Object;o.ULSTeamName="Microsoft SharePoint Foundatio
 */
 /*
 playback timings (ms):
-  LoadShardBlock: 54.82 (3)
+  LoadShardBlock: 142.129 (3)
   esindex: 0.006
-  captures_list: 74.566
-  CDXLines.iter: 11.333 (3)
-  PetaboxLoader3.datanode: 121.259 (5)
-  exclusion.robots: 0.134
-  exclusion.robots.policy: 0.123
-  RedisCDXSource: 5.988
-  PetaboxLoader3.resolve: 154.417 (2)
-  load_resource: 324.624
+  captures_list: 158.735
+  CDXLines.iter: 9.832 (3)
+  PetaboxLoader3.datanode: 92.822 (5)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.151
+  RedisCDXSource: 4.557
+  PetaboxLoader3.resolve: 172.277 (3)
+  load_resource: 143.479
 */
