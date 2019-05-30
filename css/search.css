@@ -1238,7 +1238,7 @@ border-collapse:collapse;
 font-size:10.5pt;
 padding:6px 2px 7px 10px;
 font-family:verdana,tahoma,sans-serif;
-background:url("http://snv.daknong.gov.vn/20181219082827im_/http%3A/snv.daknong.gov.vn/_layouts/images/bgximg.png") repeat-x -0px -511px;
+background:url("/img/bgximg.png") repeat-x -0px -511px;
 /* [ReplaceColor(themeColor:"Light1")] */ background-color:#fff;
 height:17px;
 display:block;
@@ -1664,7 +1664,7 @@ margin-left:5px;
 }
 .srch-gosearchimg{
 height:30px;
-background:#fff url("http://snv.daknong.gov.vn/20181219082827im_/http%3A/snv.daknong.gov.vn/_layouts/images/bgximg.png") repeat-x -0px -511px;
+background:#fff url("/img/bgximg.png") repeat-x -0px -511px;
 }
 .srch-clear{
 clear:both;
@@ -1755,14 +1755,14 @@ padding:0 0 2px;
 font-size:1.1em;
 border-right:0 !important;
 width:191px !important;
-background:url("http://snv.daknong.gov.vn/20181219082827im_/http%3A/snv.daknong.gov.vn/_layouts/images/bgximg.png") repeat-x -0px -511px;
+background:url("/img/bgximg.png") repeat-x -0px -511px;
 border:1px solid #e3e3e3 !important;
 background-color:#fff;
 height:17px;
 padding:2px 3px 0;
 }
 .s4-search .srch-gosearchimg{
-background:url("http://snv.daknong.gov.vn/20181219082827im_/http%3A/snv.daknong.gov.vn/_layouts/images/bgximg.png") repeat-x -0px -511px;
+background:url("/img/bgximg.png") repeat-x -0px -511px;
 border:1px solid #e3e3e3 !important;
 border-left:none !important;
 background-color:#fff;
