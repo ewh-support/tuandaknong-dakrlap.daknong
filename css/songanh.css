@@ -120,14 +120,14 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 }
 
 .mn-dangnhap:hover {
-	background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/menu-bgselect.png") repeat left 0px;
+	/* background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/menu-bgselect.png") repeat left 0px; */
 	display: inline-block;
 	border-left: 1px #606060 solid;
 	border-right: 1px #606060 solid;
 }
 
 .mn-dangnhap a:hover {
-	background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/menu-select.png") no-repeat center bottom;
+	/* background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/menu-select.png") no-repeat center bottom; */
 	display: block;
 }
 
@@ -2193,7 +2193,7 @@ table.ds_VBPL {
 }
 
 .hlOBotzone3 .td_vanbanmoi {
-	background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/hot-bgtitle1.png") repeat-x 0px -1px;
+	/* background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/hot-bgtitle1.png") repeat-x 0px -1px; */
 	color: #fff!important;
 	font-size: 12px!important;
 	font-weight: bold;
@@ -2207,7 +2207,7 @@ table.ds_VBPL {
 }
 
 .hlOBotzone3 .divvanbanmoi a {
-	background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/home-icon.png") no-repeat left 5px;
+	/* background: url("https://web.archive.org/web/20181215162733im_//imgSonganh/home-icon.png") no-repeat left 5px; */
 	padding-left: 12px;
 	display: inline-block;
 }
@@ -2317,12 +2317,12 @@ a.print {
 }
 
 css_Xemtiep {
-	background: url("https://web.archive.org/web/20181215162733im_//soGDDTimage/xem.gif") no-repeat left top;
+	/* background: url("https://web.archive.org/web/20181215162733im_//soGDDTimage/xem.gif") no-repeat left top; */
 	padding-top: 10px;
 }
 
 .css_Xemtiep:hover {
-	background: url("https://web.archive.org/web/20181215162733im_//soGDDTimage/xemH.gif") no-repeat left top;
+	/* background: url("https://web.archive.org/web/20181215162733im_//soGDDTimage/xemH.gif") no-repeat left top; */
 }
 
 .css_Xemtiep img {
