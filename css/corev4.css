@@ -7276,7 +7276,7 @@ _LocalBinding */
 }
 
 .ms-cui-toolbar-toolbar {
-  background: #fff url("https://web.archive.org/web/20181219122048im_/http://snv.daknong.gov.vn/_layouts/images/RibbonBG.png") repeat-x left top;
+  /* background: #fff url("https://web.archive.org/web/20181219122048im_/http://snv.daknong.gov.vn/_layouts/images/RibbonBG.png") repeat-x left top; */
   cursor: default;
   width: 100%;
   text-align: center;
