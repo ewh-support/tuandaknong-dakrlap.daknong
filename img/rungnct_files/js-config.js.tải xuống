@@ -1,0 +1,41 @@
+// --------------- Scroll fixed --------------- //
+$(document).ready(function () {
+    $('.bot-hd').scrollToFixed({
+    });
+});
+
+function showPartnerTooltip(ctrl) {
+    $(ctrl).each(function () {
+        if (!$(this).data('qtip')) {
+            $(this).qtip({
+                content: {
+                    text: function (event, api) {
+                        $.ajax({ url: '/API/ApiHome.ashx?func=getpartnertooltip&pid=' + $(this).data('pid') })
+                        .done(function (content) {
+                            api.set('content.text', content.data);
+                        })
+                        .fail(function (xhr, status, error) {
+                            api.set('content.text', status + ': ' + error)
+                        })
+
+                        return 'Loading...';
+                    }
+                },
+                position: {
+                    at: 'top center',
+                    my: 'bottom center'
+                },
+                hide: {
+                    fixed: true,
+                    effect: false
+                },
+                style: "divPartnerTooltip",
+                show: {
+                    effect: function (offset) {
+                        $(this).fadeIn("slow");
+                    }
+                }
+            });
+        }
+    });
+}
