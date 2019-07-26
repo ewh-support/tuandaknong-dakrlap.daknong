@@ -132,7 +132,7 @@ div.thongbao-detail td.LItem a, div.thongbao-detail td.LItem a:link {
 }
 
 .logoS {
-	background: url("../img/banner.jpg") no-repeat left top;
+	/* background: url("../img/banner.jpg") no-repeat left top; */
 	width: 962px;
 	height: 151px;
 }
