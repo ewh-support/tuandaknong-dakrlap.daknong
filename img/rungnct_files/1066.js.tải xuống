@@ -1,0 +1,36 @@
+//Việt Nam
+var _VTResource = {};
+_VTResource.Infographic = {
+    "lblDateRes": "Ngày",
+    "lblDownloadRes": "Tải về",
+    "lblFormatRes": "Định dạng",
+    "lblCategoryRes": "Chuyên mục",
+    "lblShareRes": "Chia sẻ",
+    "lblTagRes": "Từ khóa"
+};
+
+_VTResource.Search = {
+    "lblKeywordRes": "Từ khóa tìm kiếm",
+    "dayAgoRes": "1 ngày trước",
+    "weekAgoRes": "1 tuần trước",
+    "monthAgoRes": "1 tháng trước",
+    "yearAgoRes": "1 năm trước",
+    "lblOrRes": "Hoặc",
+    "lblFromDate": "Từ ngày",
+    "lblToDate": "Đến ngày",
+    "lblSelect": "Chọn",
+    "lblYouMustChooseFD": "Bạn phải chọn Từ ngày",
+    "lblYouMustEnterKW": "Bạn phải nhập Từ khóa",
+    "lblFromDateNotValid": "Từ ngày không đúng định dạng",
+    "lblNow": "Hiện tại",
+    "lblToDateLessFromDate": "Đến ngày không được nhỏ hơn Từ ngày",
+    "lblSearchResult": "Có {0} kết quả"
+};
+
+_VTResource.Login = {
+    "lbRequireLoginHead": "Bạn cần ",
+    "lbLoginText": "Đăng nhập",
+    "lbRequireLoginTail": "để sử dụng chức năng này",
+    "lbRequireLoginHead2": "Bạn phải ",
+    "lbRequireLoginTail2": " và liên hệ để xem được nội dung bản tin!"
+};
